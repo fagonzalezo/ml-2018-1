@@ -1,7 +1,7 @@
-title: Machine Learning 2016-II
+title: Machine Learning 2018-I
 description: Universidad Nacional de Colombia, Bogotá
 sitename: Machine Learning
-baseurl: '/ml-2016-2'
+baseurl: '/ml-2018-1'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
