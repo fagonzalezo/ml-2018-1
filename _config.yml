@@ -1,0 +1,17 @@
+title: Machine Learning 2016-II
+description: Universidad Nacional de Colombia, Bogotá
+sitename: Machine Learning
+baseurl: '/ml-2016-2'
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - Gemfile.bak
+  - .bundle
