@@ -106,8 +106,7 @@ image:
 			</tr>
 
 			<tr>
-				<td><br>
-				Oct 10
+				<td>
 				</td>
 				<td>3.3 Representation learning </td>
 				<td>
