@@ -19,13 +19,14 @@ image:
 				<td>1. Introduction</td>
 				<td>
 					Brief Introduction to ML (<a href= "introduction_ml.pdf">slides</a>)<br>
+					<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
 				</td>
 				<td>
+				(<a href= "assign1.pdf">Assignment 1</a>
 				</td>
 			</tr>
-
 			<tr>
-				<td></td>
+				<td>Feb 14</td>
 				<td>2.1 Bayesian decision theory</td>
 				<td>
 					[Alp10] Chap 3 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap3-v1-0.pdf">slides</a>)<br>
@@ -33,42 +34,35 @@ image:
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>2.2 Estimation</td>
 				<td>
 					[Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
 					Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
-
 				</td>
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>2.3 Linear models</td>
 				<td>
 					[Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
-
 				</td>
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>3.2 Kernel methods</td>
 				<td>
 					Introduction to kernel methods (<a href= "kernels.pdf">slides</a>)<br>
 					[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
-
 				</td>
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>4.1 Support vector learning</td>
@@ -82,7 +76,6 @@ image:
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>3.1 Feature extraction and selection</td>
@@ -93,7 +86,6 @@ image:
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td></td>
 				<td>4.3. Neural network learning </td>
@@ -104,7 +96,6 @@ image:
 				<td>
 				</td>
 			</tr>
-
 			<tr>
 				<td>
 				</td>
@@ -167,6 +158,5 @@ image:
 				<td>
 				</td>
 			</tr>
-
 			</tbody>
 		</table>
