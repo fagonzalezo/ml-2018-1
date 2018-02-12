@@ -22,7 +22,7 @@ image:
 					<a href= "http://videolectures.net/bootcamp07_keller_bss/">Linear Algebra and Probability Review</a> (part 1 Linear Algebra, part 2 Probability)
 				</td>
 				<td>
-				(<a href= "assign1.pdf">Assignment 1</a>
+				<a href= "assign1.pdf">Assignment 1</a>
 				</td>
 			</tr>
 			<tr>
