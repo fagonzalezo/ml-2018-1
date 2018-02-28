@@ -35,17 +35,18 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Feb 21</td>
 				<td>2.2 Estimation</td>
 				<td>
 					[Alp10] Chap 4 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap4-v1-0.pdf">slides</a>)<br>
 					Bias and variance (<a href= "http://nbviewer.ipython.org/6788818">IPython notebook</a>)<br>
 				</td>
 				<td>
+				<a href= "assign2.pdf">Assignment 2</a>
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Feb 28</td>
 				<td>2.3 Linear models</td>
 				<td>
 					[Alp10] Chap 10 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap10-v1-0.pdf">slides</a>)<br>
