@@ -65,7 +65,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>Mar 14</td>
 				<td>4.1 Support vector learning</td>
 				<td>
 					[Alp10] Chap 13 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap13-v1-0.pdf">slides</a>)<br>
@@ -78,17 +78,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
-				<td>3.1 Feature extraction and selection</td>
-				<td>
-					Feature Engineering, Léon Bottou (<a href= "http://www.cs.princeton.edu/courses/archive/spring10/cos424/slides/18-feat.pdf">slides</a>)<br>
-					[Alp10] Chap 6 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap6-v1-0.pdf">slides</a>)<br>
-				</td>
-				<td>
-				</td>
-			</tr>
-			<tr>
-				<td></td>
+				<td>Mar 21</td>
 				<td>4.3. Neural network learning </td>
 				<td>
 					[Alp10] Chap 11 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap11-v1-0.pdf">slides</a>)<br>
