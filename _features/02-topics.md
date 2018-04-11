@@ -34,6 +34,8 @@ image:
 
 4.3. Neural network learning 
 
+4.4 Deep learning
+
 5 **Discovering**
 
 5.1 Mixture densities 

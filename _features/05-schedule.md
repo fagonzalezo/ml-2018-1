@@ -91,13 +91,17 @@ image:
 			</tr>
 			<tr>
 				<td>
+				  Apr 4-11
 				</td>
-				<td>3.3 Representation learning </td>
 				<td>
-					Deep Learning, Andrew Ng (<a href= "http://research.microsoft.com/en-us/events/fs2013/andrew-ng_machinelearning.pdf">slides</a>)<br>
-					Deep Learning Tutorial, Yann LeCun (<a href= "http://www.cs.nyu.edu/~yann/talks/lecun-ranzato-icml2013.pdf">slides</a>)<br>
-					How we're teaching computers to understand pictures, Li Fei-Fei (<a href= "https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=en">slides</a>)<br>
+				3.3 Representation learning <br>
+				4.4 Deep learning <br>
+				</td>
+				<td>
+					Representation Learning and Deep Learning (<a href= "https://github.com/fagonzalezo/dl_tutorial_upv/raw/gh-pages/UPV-dl.pdf">slides</a>)<br>
 					<a href= "https://fagonzalezo.github.io/dl_tutorial_upv/">Representation Learning and Deep Learning Tutorial</a> <br>
+					<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-CNN-sentence-classification.ipynb">CNN for text classification handout</a> <br>
+					<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
 				</td>
 				<td>
 				</td>
