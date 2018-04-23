@@ -104,7 +104,7 @@ image:
 					<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
 				</td>
 				<td>
-				<a href= "https://github.com/fagonzalezo/ml-2018-1/blob/master/assign4.ipynb">Assign 4</a>
+				<a href= "https://github.com/fagonzalezo/ml-2018-1/blob/master/assign4.ipynb">Assignment 4</a>
 				</td>
 			</tr>
 			<tr>
