@@ -91,7 +91,7 @@ image:
 			</tr>
 			<tr>
 				<td>
-				  Apr 4-11
+				  Apr 4-18
 				</td>
 				<td>
 				3.3 Representation learning <br>
@@ -104,6 +104,7 @@ image:
 					<a href= "https://github.com/fagonzalezo/dl-tau-2017-2/blob/master/Handout-LSTM-language-model.ipynb">LSTM language model handout</a> <br>
 				</td>
 				<td>
+				<a href= "https://github.com/fagonzalezo/ml-2018-1/blob/master/assign4.ipynb">Assign 4</a>
 				</td>
 			</tr>
 			<tr>
