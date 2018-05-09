@@ -108,7 +108,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td><Apr 25/td>
+				<td>Apr 25</td>
 				<td>4.2 Random forest learning</td>
 				<td>
 					[HTF09] Chap 15 (<a href= "http://statweb.stanford.edu/~tibs/ElemStatLearn/">book</a>)<br>
