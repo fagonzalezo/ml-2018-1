@@ -108,7 +108,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td><Apr 25/td>
 				<td>4.2 Random forest learning</td>
 				<td>
 					[HTF09] Chap 15 (<a href= "http://statweb.stanford.edu/~tibs/ElemStatLearn/">book</a>)<br>
@@ -119,7 +119,7 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>May 2</td>
 				<td>5.1 Mixture densities </td>
 				<td>
 					[Alp10] Chap 7 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap7-v1-0.pdf">slides</a>)<br>
@@ -128,30 +128,12 @@ image:
 				</td>
 			</tr>
 			<tr>
-				<td></td>
+				<td>May 9</td>
 				<td>5.2 Latent topic models<br>5.3 Matrix factorization </td>
 				<td>
 					Latent Semantic Analysis, CS158 Pomona College (<a href= "http://www.cs.pomona.edu/classes/cs158/resources/158-12(LSA).pdf">slides</a>)<br>
 					Latent Semantic Variable Models, Thomas Hofmann (<a href= "http://videolectures.net/slsfs05_hofmann_lsvm/">videolecture</a>)<br>
-				</td>
-				<td>
-				</td>
-			</tr>
-			<tr>
-				<td></td>
-				<td>5.3 Matrix factorization<br>6.2 Large scale machine learning </td>
-				<td>
-					Two-way Multimodal Online Matrix Factorization, Jorge Vanegas (<a href= "Two-wayMatrixFactorization.pdf">slides</a>)<br>
-					Online Kernel Matrix Factorizatioon, Esteban Paez (<a href= "http://slides.com/aepaezt/deck#/">slides</a>)<br>
-				</td>
-				<td>
-				</td>
-			</tr>
-			<tr>
-				<td></td>
-				<td>6.1 Experimental design</td>
-				<td>
-					[Alp10] Chap 19 (<a href= "http://www.cmpe.boun.edu.tr/~ethem/i2ml2e/2e_v1-0/i2ml2e-chap19-v1-0.pdf">slides</a>)<br>
+					Non-negative Matrix Factorization for Multimodal Image Retrieval, Fabio González (<a href= "https://fagonzalezo.github.io/ml-2016-2/NMF-MM-IR.pdf">slides</a>)<br>
 				</td>
 				<td>
 				</td>
